@@ -5,9 +5,8 @@
 
 - 🌱 I’m currently learning **Laravel Framework**
 
-- ⚡ Fun fact **Hobby Turu**
+- ⚡ Fun fact **Bukan Orang Jawa Aseli**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
